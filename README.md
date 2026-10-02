@@ -1,13 +1,6 @@
-<h1 align="center">Hola, soy Augusto</h1>
-<p align="center">Estudiante en UTEC, Uruguay. Me gusta agarrar datos públicos y convertirlos en algo que a la gente le sirva.</p>
-
----
-
-### Sobre mí
-
-- Estudio en la **Universidad Tecnológica del Uruguay (UTEC)**.
-- Ahora estoy con [**canasta-uy**](https://github.com/kenymtz/canasta-uy): armás tu canasta, elegís tu ciudad en el mapa y te dice dónde te sale más barato comprar. Usa los datos abiertos del SIPC.
-- Estoy aprendiendo bases de datos geoespaciales, pipelines de datos y un poco de todo lo que hace falta para llevar un proyecto a producción.
+<p align="center">
+  <img src="./retro.svg" alt="Computadora retro con la presentación de Augusto en pantalla" width="760"/>
+</p>
 
 ### Con qué trabajo
 
