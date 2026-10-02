@@ -111,15 +111,12 @@
     <rect x="160" y="62" width="480" height="318" fill="url(#tube)"/>
     <g filter="url(#glow)" class="flick">
       <text x="190" y="102" class="d">C:\USUARIOS\AUGUSTO&gt; type presentacion.txt</text>
-      <text x="190" y="140" class="h">Hola, soy Augusto</text>
-      <text x="190" y="174" class="t">Estudiante en UTEC, Uruguay.</text>
-      <text x="190" y="197" class="t">Agarro datos públicos y los convierto</text>
-      <text x="190" y="220" class="t">en algo que a la gente le sirva.</text>
-      <text x="190" y="256" class="d">&gt; proyecto actual</text>
-      <text x="190" y="279" class="t">canasta-uy: dónde conviene hacer las</text>
-      <text x="190" y="302" class="t">compras en tu ciudad (datos del SIPC).</text>
-      <text x="190" y="338" class="d">&gt; stack</text>
-      <text x="190" y="361" class="t">TS · Python · PostgreSQL/PostGIS · Docker<tspan class="cur"> █</tspan></text>
+      <text x="190" y="145" class="h">Hola, soy Augusto</text>
+      <text x="190" y="185" class="t">Estudiante en UTEC, Uruguay.</text>
+      <text x="190" y="208" class="t">Licenciatura en Ingeniería de Datos e IA.</text>
+      <text x="190" y="250" class="t">Integrante del equipo de robótica Urubots</text>
+      <text x="190" y="273" class="d">https://urubots.uy/</text>
+      <text x="190" y="345" class="t">TS · Python · PostgreSQL/PostGIS · Docker<tspan class="cur"> █</tspan></text>
     </g>
     <rect x="160" y="62" width="480" height="318" fill="url(#scan)"/>
     <rect x="160" y="62" width="480" height="318" fill="url(#vignette)"/>
