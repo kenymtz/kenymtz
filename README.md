@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./computadora.svg" alt="Computadora retro con la presentación de Augusto en pantalla" width="760"/>
+  <img src="./pantalla.svg" alt="Computadora retro con la presentación de Augusto en pantalla" width="760"/>
 </p>
 
 ### Con qué trabajo
